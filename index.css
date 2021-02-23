@@ -11,7 +11,7 @@
 	flex-direction: column;
 	align-items: center;
 }
-#header-page h1,
+#header-page #title,
 #description {
 	color: #5f9ea0;
 	font-family: Oswald, sans-serif;
